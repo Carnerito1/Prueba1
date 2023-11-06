@@ -46,7 +46,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.14.0
 	go.opentelemetry.io/otel/trace v1.14.0
 	go.uber.org/goleak v1.2.1
-	golang.org/x/sync v0.3.0
+	golang.org/x/sync v0.5.0
 	google.golang.org/grpc v1.58.2
 	gotest.tools/v3 v3.5.1
 )
